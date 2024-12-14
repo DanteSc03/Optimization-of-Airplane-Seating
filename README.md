@@ -77,7 +77,7 @@ The project addresses the following:
   - This plane has 30 rows in a 3 x 3 configuration
   - This code can be adapted to all types of aircraft
 
-![Seatmap](seatmap.jpeg)
+![Seatmap](Seatmap.jpeg)
 
 ## 📊 Key Results
 
