@@ -71,6 +71,13 @@ The project addresses the following:
 3. **Objective**:
    - Minimize total boarding time.
    - Compare traditional boarding methods (e.g., front-to-back, random) with algorithm-optimized strategies.
+  
+4. **Seatmap**
+  - This project was based on the seating configuration of an all economy class Airbus A320
+  - This plane has 30 rows in a 3 x 3 configuration
+  - This code can be adapted to all types of aircraft
+
+![Seatmap](seatmap.jpeg)
 
 ## 📊 Key Results
 
